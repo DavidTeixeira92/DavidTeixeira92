@@ -1,4 +1,24 @@
-### Hi there 👋
+### What's up, dude! 🖖
+
+I'm David Teixeira from Brazil (🇧🇷) and I decided to head into in this Development's World, after all, code creation is the POWER✨! I'm studying some projects proposed by RocketSeat and Alura, and some their already available are in my [repositories](https://github.com/DavidTeixeira92?tab=repositories).
+
+Nowadays, I'm a informatic professional, especifically, in the support's area, but too I'm a teacher in the platform online, Youtube, [TD Educação channel](https://juntossomosmais.com.br). It's my hobby.
+
+In my free time I like to play mobile game, to watch Netflix and YouTube and to learn something new.
+
+Finally, I leave the following message:
+
+CODE IS LOVE! ❤️
+CODE IS LIFE! ❤️
+
+Would you like to find me?
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/TioDavidEducação)](https://youtube.com/c/TioDavidEducação)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-teixeira-de-masin-a58193167/)]https://www.linkedin.com/in/david-teixeira-de-masin-a58193167/)
+
+
+
+
 
 <!--
 **DavidTeixeira92/DavidTeixeira92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
