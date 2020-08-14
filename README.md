@@ -9,6 +9,7 @@ In my free time I like to play mobile game, to watch Netflix and YouTube and to 
 Finally, I leave the following message:
 
 CODE IS LOVE! ❤️
+
 CODE IS LIFE! ❤️
 
 Would you like to find me?
