@@ -4,7 +4,7 @@ I'm David Teixeira from Brazil (🇧🇷) and I decided to head into in this Dev
 
 Nowadays, I'm a informatic professional, especifically, in the support's area, but too I'm a teacher in the platform online, Youtube, [TD Educação channel](https://juntossomosmais.com.br). It's my hobby.
 
-In my free time I like to play mobile game, to watch Netflix and YouTube and to learn something new.
+In my free time I like to play mobile games, to watch Netflix and YouTube and to learn something new.
 
 Finally, I leave the following message:
 
