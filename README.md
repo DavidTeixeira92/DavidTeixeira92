@@ -15,7 +15,7 @@ CODE IS LIFE! ❤️
 Would you like to find me?
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/TioDavidEducação)](https://youtube.com/c/TioDavidEducação)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-teixeira-de-masin-a58193167/)](https://www.linkedin.com/in/david-teixeira-de-masin-a58193167/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/davidteixeirademasin)](www.linkedin.com/in/davidteixeirademasin)
 
 
 
